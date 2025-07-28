@@ -15,6 +15,7 @@ You complete most of the cluster configuration and customization after you deplo
 
 [NOTE]
 ====
+TEST
 If you install your cluster on {ibm-z-name}, not all features and functions are available.
 ====
 
